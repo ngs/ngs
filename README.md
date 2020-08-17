@@ -4,9 +4,9 @@ Blog [🇺🇸](https://ngs.io/) [🇯🇵](https://ja.ngs.io/) / Bio [🇺🇸]
 
 ![iwana](https://live.staticflickr.com/65535/50097850046_d0ccd4ab12.jpg)
 
-Hello, I am a software engineer based in Tokyo, Japan.
+Hello, I am a software developer based in Tokyo, Japan.
 
-I’m focusing on developing softwares for Desktop, Mobile and Web.
+I'm focusing on developing softwares for Desktop, Mobile and Web.
 
 Current positions are Co-Founder, CEO, Software Developer at [instance0, inc.], CTO at [Modelmap Co., Ltd.]. Originally started my career as graphic designer, founded a small software house LittleApps Inc., experienced several startup companies from founding phase.
 
